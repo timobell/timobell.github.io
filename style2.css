@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("/images/gaming-pc-cover.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron > hr {
+    border-color: white;
+}
