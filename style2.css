@@ -1,8 +1,4 @@
-.jumbotron {
-    background-image: url("/images/gaming-pc-cover.jpg");
-    background-size: cover;
-    color: white;
-}
+
 
 .no-padding {
     padding: 0;
@@ -14,4 +10,8 @@
     width: 100px;
     height: 100px;
     background-color: black;
+}
+.links {
+    position: relative;
+    left: 0;
 }
